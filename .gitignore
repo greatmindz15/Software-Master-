@@ -1,13 +1,11 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Other files and folders
+.settings/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
