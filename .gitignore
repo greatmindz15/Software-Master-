@@ -1,13 +1,17 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+active sofware Code+
+software Inventrory Number {pk} +
+Operating System+
+Version+
+(aka2)Publisher +
+(ak3) Software Category  +
+Memory Required +
+Computer Brand +
+Computer Model +
+Site License +
+Number of  Copies +
+Installation Computer 
+Hard Drive 
+Second Hardrive 
+Optical Drive 
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
